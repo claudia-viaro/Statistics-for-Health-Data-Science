@@ -6,4 +6,4 @@ Materials of the Workshop for the MSc on Diagnostics, Data, and Digital Health @
 
 19th October 2023:
   * [[materials](https://colab.research.google.com/drive/1FcbtdGuIuwurN3EGpIDyS8xEEiWTmbSj?usp=sharing)]
-  * [[dataset](https://physionet.org/content/mimiciii-demo/1.4/)]
+
